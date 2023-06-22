@@ -1,1 +1,1 @@
-# kde-salt.github.io
+# SALT group at U. Tsukuba
